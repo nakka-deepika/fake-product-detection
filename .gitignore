@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Database
+prediction_history.db
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
